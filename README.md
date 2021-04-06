@@ -4,7 +4,7 @@
 
 AR Tag
 
-![alt text](./images/ar_tag.PNG?raw=true "AR Tag")
+![alt text](./media/ar_tag.png?raw=true "AR Tag")
 
 
 ### The code basically involves three tasks:
@@ -23,29 +23,29 @@ The solution involves implementation of **cv2.getPerspectiveTransform()** and **
 
 **Warped Tags**
 
-![alt text](./images/output/warped_tags.PNG?raw=true "Warped Tags")
+![alt text](./media/warped_tags.png?raw=true "Warped Tags")
 
 
 **Tag and ID detection in video frames:**
 
-![alt text](./images/output/tag_detection1.PNG?raw=true "Tag detection ID=7")
+![alt text](./mediat/tag_detection1.png?raw=true "Tag detection ID=7")
 
-![alt text](./images/output/tag_detection2.PNG?raw=true "Tag detection ID=13")
+![alt text](./media/tag_detection2.png?raw=true "Tag detection ID=13")
 
-![alt text](./images/output/tag_detection_3tags.PNG?raw=true "Tag detection: Three tags")
+![alt text](./media/tag_detection_3tags.png?rrue "Tag detection: Three tags")
 
 
 **Superimposing _Lena_ image on the tags with proper orientation:**
 
-![alt text](./images/output/lena_one_tag.PNG?raw=true "Superimposing Lena image on one tag")
+![alt text](./media/lena_one_tag.pngaw=true "Superimposing Lena image on one tag")
 
-![alt text](./images/output/lena_three_tags.PNG?raw=true "Superimposing Lena image on all the tags")
+![alt text](./media/lena_three_tags.pngaw=true "Superimposing Lena image on all the tags")
 
 **Drawing 3D cube over the tags:**
 
-![alt text](./images/output/cube_one_tag.PNG?raw=true "Drawing 3D cube over the tag")
+![alt text](./media/cube_one_tag.png?raw=true "Drawing 3D cube over the tag")
     
-![alt text](./images/output/cube_three_tags.PNG?raw=true "Drawing 3D cube over all the tags")
+![alt text](./media/cube_three_tags.png?raw=true "Drawing 3D cube over all the tags")
 
 **Output videos can be found [here](https://drive.google.com/drive/folders/1bzZxU0ElG-uYMcrTHAwsvdtPljzHXHqh?usp=sharing)**
 
