@@ -23,7 +23,7 @@ The solution involves implementation of **cv2.getPerspectiveTransform()** and **
 
 **Warped Tags**
 
-(./media/warped_tags.png?raw=true "Warped Tags")
+![alt text](./media/warped_tags.png?raw=true "Warped Tags")
 
 
 **Tag and ID detection in video frames:**
@@ -32,14 +32,14 @@ The solution involves implementation of **cv2.getPerspectiveTransform()** and **
 
 ![alt text](./media/tag_detection2.png?raw=true "Tag detection ID=13")
 
-![alt text](./media/tag_detection_3tags.png?rrue "Tag detection: Three tags")
+![alt text](./media/tag_detection_3tags.png?raw =true "Tag detection: Three tags")
 
 
 **Superimposing _Lena_ image on the tags with proper orientation:**
 
-![alt text](./media/lena_one_tag.pngaw=true "Superimposing Lena image on one tag")
+![alt text](./media/lena_one_tag.png?raw=true "Superimposing Lena image on one tag")
 
-![alt text](./media/lena_three_tags.pngaw=true "Superimposing Lena image on all the tags")
+![alt text](./media/lena_three_tags.png?raw=true "Superimposing Lena image on all the tags")
 
 **Drawing 3D cube over the tags:**
 
