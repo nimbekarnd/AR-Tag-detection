@@ -28,7 +28,7 @@ The solution involves implementation of **cv2.getPerspectiveTransform()** and **
 
 **Tag and ID detection in video frames:**
 
-![alt text](./mediat/tag_detection1.png?raw=true "Tag detection ID=7")
+![alt text](./media/tag_detection1.png?raw=true "Tag detection ID=7")
 
 ![alt text](./media/tag_detection2.png?raw=true "Tag detection ID=13")
 
