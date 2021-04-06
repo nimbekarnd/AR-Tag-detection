@@ -23,7 +23,7 @@ The solution involves implementation of **cv2.getPerspectiveTransform()** and **
 
 **Warped Tags**
 
-![alt text](./media/warped_tags.png?raw=true "Warped Tags")
+(./media/warped_tags.png?raw=true "Warped Tags")
 
 
 **Tag and ID detection in video frames:**
